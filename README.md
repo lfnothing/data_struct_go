@@ -1,1 +1,1 @@
-# data_struct_c
+# data_struct_go
